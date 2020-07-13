@@ -3,8 +3,8 @@ Your not so typical resume parser
 Instructions
 ========
 Follow these to have a sneak peek of what's going on  
-1. git clone https://github.com/skcript/cvscan.git  
-2. cd cvscan  
+1. git clone https://github.com/kbrajwani/cvscan3.git
+2. cd cvscan3  
 3. python setup.py install  
 4. Place the sample resume in the ~/cvscan folder  and enter the file name  
 or enter relative path  
